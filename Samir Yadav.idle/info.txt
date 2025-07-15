@@ -1,0 +1,16 @@
+Kitta Number, City/District, Direction, Area (anna), Price (NPR), Availability
+201, Kathmandu, North, 6, 55000, Available
+202, Pokhara, East, 7, 65000, Available
+203, Lalitpur, South, 12, 120000, Available
+204, Bhaktapur, West, 10, 90000, Available
+205, Biratnagar, East, 8, 75000, Available
+206, Butwal, West, 9, 80000, Available
+207, Dharan, East, 7, 65000, Available
+208, Bharatpur, Central, 11, 95000, Available
+209, Birgunj, South, 5, 50000, Available
+210, Hetauda, Central, 6, 55000, Available
+211, Nepalgunj, West, 8, 70000, Available
+212, Dhangadhi, Far-West, 5, 45000, Available
+213, Janakpur, East, 10, 85000, Available
+214, Tulsipur, Mid-West, 7, 60000, Available
+215, Ilam, East, 9, 70000, Available
